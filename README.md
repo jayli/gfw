@@ -1,1 +1,1 @@
-- dat：<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
+- 包含了 geosite:gfw，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
