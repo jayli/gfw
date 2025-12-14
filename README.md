@@ -1,1 +1,2 @@
-<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
+- dat：<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
+- txt：<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/gfw>
