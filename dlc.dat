@@ -1219,6 +1219,8 @@ route53.cn
 cn8,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 cn, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 cn
+ú
+AWS-US#us-west-1.compute.amazonaws.com#us-west-2.compute.amazonaws.com#us-east-1.compute.amazonaws.com#us-east-2.compute.amazonaws.com
 ˝
 AZURE	azure	21vbc.com
 cn21vbluecloud.com
@@ -5351,7 +5353,7 @@ walmart.cn
 cnwalmart.comwalmart.pharmacywalmartimages.com
 wmt.cowish.comaxbdoll.com.tw
 i69.com.twpornhubapparel.comreadmoo.com	redino.tw
-‘
+·
 CATEGORY-EDUCATION-CNchinesemooc.org
 cnmooc.orgicourse163.orgicourses.cnicve.com.cnmooc.cnopenlearning.compmphmooc.commoocs.unipus.cnopencourse.pku.edu.cnstudy.163.com
 17zuoye.cn17zuoye.com17zuoye.netapplysquare.comapplysquare.nethugecore.netshareintelli.commojidict.com
@@ -5360,7 +5362,7 @@ koocdn.comkoolearn.comkoopass.com	baydn.comshanbay.com
 xesimg.comxueersi.combanmaaike.comxiaoyuankousuan.comybccode.comyuanfudao.comyuansouti.comyuantiku.comfbstatic.cn	fenbi.com
 fenbike.cnfenbike.comfenbilantian.cnfenbilantian.comrainclassroom.comyuketang.cnyudou.cnyushiyan.netxuetangx.com
 edu.cncbern.com.cnsmartedu.cncedf.cncedf.org.cnchdi.com.cnchei.com.cn
-chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.net91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
+chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.netneea.cn91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
 bczcdn.combczeducation.cnburningvocabulary.cnburningvocabulary.comcenturyenglish.comcugbonline.cndearedu.comdgjy.net	eduei.com
 j-test.comnattest-china.comkeboyunxiao.comketangpai.comkuaiduizuoye.comliulishuo.com
 llsapp.com
@@ -8020,7 +8022,7 @@ cmbuat.com	cmburl.cn cmbwinglungbank.com
 !cncmf.bizcmf.ltdcmfchina.com
 cmfunds.cntest-cignacmb.com
 joying.com
-ÿù
+Âù
 CNalibaba
 alipay	baidu	citiccnicbcsohu
 taobao	tmall
@@ -8756,7 +8758,7 @@ koocdn.comkoolearn.comkoopass.com	baydn.comshanbay.com
 xesimg.comxueersi.combanmaaike.comxiaoyuankousuan.comybccode.comyuanfudao.comyuansouti.comyuantiku.comfbstatic.cn	fenbi.com
 fenbike.cnfenbike.comfenbilantian.cnfenbilantian.comrainclassroom.comyuketang.cnyudou.cnyushiyan.netxuetangx.com
 edu.cncbern.com.cnsmartedu.cncedf.cncedf.org.cnchdi.com.cnchei.com.cn
-chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.net91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
+chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.netneea.cn91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
 bczcdn.combczeducation.cnburningvocabulary.cnburningvocabulary.comcenturyenglish.comcugbonline.cndearedu.comdgjy.net	eduei.com
 j-test.comnattest-china.comkeboyunxiao.comketangpai.comkuaiduizuoye.comliulishuo.com
 llsapp.com
@@ -14055,7 +14057,7 @@ rea.global
 rea.iorea.techrealcommercial.com.aurealestate.com.aurealtor.comreastatic.netrumah123.comsmartexpos.comsmartline.com.auspacely.com.ausquarefoot.com.hkthinkofliving.compredb.mescenesource.me	scnsrc.mesbux.com.mysbuxcard.comstarbucks-stars.comstarbucks.adstarbucks.atstarbucks.bestarbucks.bgstarbucks.castarbucks.chstarbucks.co.idstarbucks.co.jpstarbucks.co.nzstarbucks.co.thstarbucks.co.ukstarbucks.co.zastarbucks.comstarbucks.com.arstarbucks.com.bnstarbucks.com.cn
 cnstarbucks.com.costarbucks.com.cystarbucks.com.grstarbucks.com.hkstarbucks.com.khstarbucks.com.kzstarbucks.com.mxstarbucks.com.mystarbucks.com.pestarbucks.com.sgstarbucks.com.trstarbucks.com.uystarbucks.destarbucks.dkstarbucks.esstarbucks.frstarbucks.hustarbucks.iestarbucks.instarbucks.itstarbucks.nlstarbucks.nostarbucks.phstarbucks.plstarbucks.ptstarbucks.rsstarbucks.rustarbucks.sestarbucks.ttstarbucks.vnstarbucksathome.comstarbucksavie.castarbuckscard.phstarbuckscardb2b.comstarbuckscoffee.czstarbuckscoffeegear.com starbuckscoffeegearstore.comstarbucksforlife.castarbucksforlife.comstarbuckspoq.comstarbucksreserve.comstarbucksrewardsstarland.ca starbucksrewardsstarland.comstarbucksromania.rostarbucksrtd.comstarbucksslovakia.skstarbuckssummergame.castarbuckssummergame.com
 tsquare.tv	windy.comxdty.org	xingrz.meimmersivetranslate.com
-‹ò
+Èò
 GEOLOCATION-CNautohome.comautohome.com.cnautohome.tel
 autoimg.cnautoimg.com.cnbitauto.combitautoimg.comcheyisou.com	yiche.com	yccdn.comdcarapi.comdcarimg.comdcarlive.comdcarstatic.comdcarvod.com
 dcdapp.comdongchedi.comdongchediapp.combyd.com	geely.com
@@ -14777,7 +14779,7 @@ koocdn.comkoolearn.comkoopass.com	baydn.comshanbay.com
 xesimg.comxueersi.combanmaaike.comxiaoyuankousuan.comybccode.comyuanfudao.comyuansouti.comyuantiku.comfbstatic.cn	fenbi.com
 fenbike.cnfenbike.comfenbilantian.cnfenbilantian.comrainclassroom.comyuketang.cnyudou.cnyushiyan.netxuetangx.com
 edu.cncbern.com.cnsmartedu.cncedf.cncedf.org.cnchdi.com.cnchei.com.cn
-chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.net91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
+chesicc.cnchesicc.comchesicc.com.cnchesicc.netchesicc.net.cnchesicc.org.cnchinayz.com.cnchsi.cnchsi.com.cngatzs.com.cngfbzb.cn	gfbzb.comgfbzb.com.cngfbzb.gov.cn	gfbzb.netncss.cnncss.org.cnqgzb.com.cnqgzb.gov.cnqgzb.netzbbm.gov.cnzbbm.netneea.cn91yunxiao.comaiyunxiao.comhaofenshu.comiyunxiao.comyunxiao.combaicizhan.combaicizhan.org
 bczcdn.combczeducation.cnburningvocabulary.cnburningvocabulary.comcenturyenglish.comcugbonline.cndearedu.comdgjy.net	eduei.com
 j-test.comnattest-china.comkeboyunxiao.comketangpai.comkuaiduizuoye.comliulishuo.com
 llsapp.com
@@ -15871,7 +15873,7 @@ gepush.comgetui.cn	getui.com	getui.net
 igehuo.com
 igetui.com
 igexin.com
-˘ﬂ
+ ‡
 GFW000webhost.com
 030buy.com
 0rz.tw1-apple.com.tw1000giri.net10beasts.net10conditionsoflove.com10musume.com	123rf.com	12bet.com	12vpn.com	12vpn.net1337x.to138.com141hongkong.com	141jj.com141tube.com1688.com.au	173ng.com177pic.info
@@ -15901,7 +15903,7 @@ altrec.comalvinalexander.comalwaysdata.comalwaysdata.net
 amnesty.twamnestyusa.orgampproject.orgamtb-taipei.orgamuletmc.com	anchor.fmanchorfree.comancsconf.organdfaraway.netandroid-x86.organdroid.comandroidapksfree.comandroidify.comandroidtv.comandygod.comangela-merkel.deangelfire.com
 angola.organgularjs.organimecrazy.netaniscartujo.comannas-archive.organnas-archive.seannatam.com
 anobii.comanonfiles.comanontext.comanonymitynetwork.comanonymizer.comanonymouse.org
-anpopo.comanswering-islam.organthonycalzadilla.comanthropic.comantichristendom.comantiwave.netantpool.comanyporn.com
+anpopo.comanswering-islam.organthonycalzadilla.comanthropic.comantichristendom.comantiwave.netantpool.comanuneko.comanyporn.com
 anysex.comao3.orgaobo.com.auaofriend.com
 aojiao.orgaomedia.orgaomiwang.com
 aoxvpn.comapartmentratings.comapartments.comapat1989.orgapetube.comapi-secure.recaptcha.netapi-verify.recaptcha.net
@@ -16191,7 +16193,8 @@ javmoo.xyzjavseen.com
 javtag.com
 javzoo.com
 jbtalks.ccjbtalks.com
-jbtalks.myjcpenney.com	jdwsy.comjeanyim.com	jetos.comjex.comjgoodies.comjiangweiping.comjiaoyou8.com	jiehua.czjieshibaobao.comjifangge.comjigglegifs.comjihadintel.meforum.orgjihadology.netjiji.comjims.netjingpin.orgjingsim.orgjinpianwang.comjinrizhiyi.newsjintian.netjinx.comjitouch.comjjgirls.com
+jbtalks.myjcpenney.com	jdwsy.comjeanyim.com	jetos.comjex.comjgoodies.com
+jhelab.orgjiangweiping.comjiaoyou8.com	jiehua.czjieshibaobao.comjifangge.comjigglegifs.comjihadintel.meforum.orgjihadology.netjiji.comjims.netjingpin.orgjingsim.orgjinpianwang.comjinrizhiyi.newsjintian.netjinx.comjitouch.comjjgirls.com
 jkb.ccjkforum.netjkub.com	jma.go.jpjmsc.hku.hkjmscult.comjoachims.orgjobnewera.wordpress.comjoinclubhouse.comjoinmastodon.orgjornaldacidadeonline.com.brjournalchretien.netjournalofdemocracy.orgjoymiihub.comjoyourself.comjp.hao123.comjpl.nasa.govjpopforum.netjsdelivr.net	jtvnw.netjudicial.gov.twjuhuaren.comjukujo-club.comjuliepost.comjuliereyc.comjunauza.comjune4commemoration.orgjungleheart.com	juoaa.comjustdied.comjustfreevpn.comjusthost.rujustmysocks.netjustmysocks1.netjustmysockscn.comjustpaste.itjusttristan.comjuziyue.comjwmusic.orgjyxf.net
 ka-wai.comkadokawa.co.jp	kagyu.orgkagyu.org.zakagyumonlam.orgkagyunews.com.hkkagyuoffice.orgkagyuoffice.org.tw
 kaiyuan.de	kakao.comkanald.com.trkankan.todaykannewyork.comkanshifang.com
@@ -16357,7 +16360,8 @@ plus.codes
 plus28.com
 plusbb.compmatehunter.com
 pmates.compo2b.compobieramy.toppodbean.com
-podcast.copodictionary.compoe.compoints-media.compokerstars.compokerstars.netpoliticalchina.orgpolitiscales.netpoloniex.compolymarket.compolymer-project.orgpolymerhk.compoolbinance.com
+podcast.copodictionary.com
+podwise.aipoe.compoints-media.compokerstars.compokerstars.netpoliticalchina.orgpolitiscales.netpoloniex.compolymarket.compolymer-project.orgpolymerhk.compoolbinance.com
 poolin.com	popai.propopo.tw
 popvote.hkpopxi.clickpopyard.compopyard.orgporn.com	porn2.com	porn5.compornbase.orgpornerbros.com
 pornhd.compornhost.compornhub.compornhubdeutsch.netpornmate.compornoxo.compornrapidshare.compornsharing.compornsocket.compornstarbyface.compornstarclub.comporntube.comporntubenews.comporntvblog.compornvisit.com
@@ -16376,7 +16380,7 @@ python.compython.com.twpythonhackers.compytorch.orgqbitt
 qi-gong.me
 qianbai.twqiandao.todayqianglie.comqiangwaikan.comqiangyou.org	qianmo.tw	qidian.caqiwen.luqixianglu.cnqkshare.comqmp4.comqoos.comqpoe.comqq.co.zaqstatus.comqtrac.euquestvisual.comquitccp.orgquiz.directory	quora.comquoracdn.net	quran.comquranexplorer.com	qusi8.net	qxbbs.org
 qz.com
-r-pool.net	r0.rur10s.jpr18.comradicalparty.org	radiko.jpradio-canada.caradio-en-ligne.frradio.gardenradioaustralia.net.auradiohilight.netradioline.coradiovaticana.orgradiovncr.comradmin-vpn.comrael.orgraggedbanner.comraidcall.com.twrainbowplan.orgraindrop.ioraizoji.or.jprakuten.co.jpramcity.com.aurangzen.netrangzen.orgrapbull.netrapidmoviez.comrapidvpn.comrarbgprx.orgrateyourmusic.comrationalwiki.orgraw.githack.com
+r-pool.net	r0.rur10s.jpr18.comradicalparty.org	radiko.jpradio-canada.caradio-en-ligne.frradio.coradio.gardenradioaustralia.net.auradiohilight.netradiojar.comradioline.coradiovaticana.orgradiovncr.comradmin-vpn.comrael.orgraggedbanner.comraidcall.com.twrainbowplan.orgraindrop.ioraizoji.or.jprakuten.co.jpramcity.com.aurangzen.netrangzen.orgrapbull.netrapidmoviez.comrapidvpn.comrarbgprx.orgrateyourmusic.comrationalwiki.orgraw.githack.com
 rawgit.comrawgithub.comrcam.target.com	rcinet.carconversation.blogs.com
 rd.comreabble.com
 read01.comread100.comreadingtimes.com.twreadmoo.comreadydown.comrealcourage.orgrealforum.zkiz.comrealitykings.comrealraptalk.comrealsexpass.com
