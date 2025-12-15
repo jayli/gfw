@@ -1186,6 +1186,8 @@ route53.cn
 cn8,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 cn, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 cnawsacmvalidations.comacmvalidationsaws.comaesworkshops.comamazonaws-china.comamazonaws.bizamazonaws.co.ukamazonaws.comamazonaws.infoamazonaws.netamazonaws.orgamazonaws.tvamazoncognito.comamazonses.comamazonworkdocs.comamplifyapp.comamplifyframework.comaws-iot-hackathon.comaws.comawsapprunner.comawsapps.comawsautopilot.comawsautoscaling.comawsbraket.comawscommandlineinterface.comawsedstart.comawseducate.comawseducate.netawseducate.orgawsglobalaccelerator.comawsloft-johannesburg.comawsloft-stockholm.comawssecworkshops.comawsstatic.comawsthinkbox.comawstrack.mecdkworkshop.comcloudfront.comcloudfront.netcontainersonaws.comelasticbeanstalk.comthinkboxsoftware.comamzndns.co.ukamzndns.comamzndns.netamzndns.org0,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
+ö
+AWS-ALL global.compute.amazonaws.com$ af-south-1.compute.amazonaws.com#ap-east-1.compute.amazonaws.com#ap-east-2.compute.amazonaws.com($ap-northeast-1.compute.amazonaws.com($ap-northeast-2.compute.amazonaws.com($ap-northeast-3.compute.amazonaws.com$ ap-south-1.compute.amazonaws.com$ ap-south-2.compute.amazonaws.com($ap-southeast-1.compute.amazonaws.com($ap-southeast-2.compute.amazonaws.com($ap-southeast-3.compute.amazonaws.com($ap-southeast-4.compute.amazonaws.com($ap-southeast-5.compute.amazonaws.com($ap-southeast-6.compute.amazonaws.com($ap-southeast-7.compute.amazonaws.com&"ca-central-1.compute.amazonaws.com#ca-west-1.compute.amazonaws.com$ cn-north-1.compute.amazonaws.com($cn-northwest-1.compute.amazonaws.com&"eu-central-1.compute.amazonaws.com&"eu-central-2.compute.amazonaws.com$ eu-north-1.compute.amazonaws.com$ eu-south-1.compute.amazonaws.com$ eu-south-2.compute.amazonaws.com#eu-west-1.compute.amazonaws.com#eu-west-2.compute.amazonaws.com#eu-west-3.compute.amazonaws.com($eusc-de-east-1.compute.amazonaws.com&"il-central-1.compute.amazonaws.com&"me-central-1.compute.amazonaws.com$ me-south-1.compute.amazonaws.com#me-west-1.compute.amazonaws.com&"mx-central-1.compute.amazonaws.com#sa-east-1.compute.amazonaws.com#sa-west-1.compute.amazonaws.com#us-east-1.compute.amazonaws.com#us-east-2.compute.amazonaws.com'#us-gov-east-1.compute.amazonaws.com'#us-gov-west-1.compute.amazonaws.com#us-west-1.compute.amazonaws.com#us-west-2.compute.amazonaws.com
 Ç
 AWS-CN
 a2z.org.cn
@@ -1219,8 +1221,6 @@ route53.cn
 cn8,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 cn, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 cn
-œ
-AWS-US#us-west-1.compute.amazonaws.com#us-west-2.compute.amazonaws.com#us-east-1.compute.amazonaws.com#us-east-2.compute.amazonaws.com
 ý
 AZURE	azure	21vbc.com
 cn21vbluecloud.com
