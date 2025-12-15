@@ -1,3 +1,2 @@
-- 包含了 geosite:gfw，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
-
-geosite:gfw, geosite:aws-all
+- geosite:gfw，geosite:aws-all，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
+- geoip:aws-us，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/geoip.dat>
