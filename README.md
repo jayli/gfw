@@ -1,2 +1,2 @@
-- geosite:gfw，geosite:aws-all，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
-- geoip:aws-us，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/geoip.dat>
+- geosite：包含 geosite:gfw 和 geosite:aws-all，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
+- geoip：包含 geoip:aws-us，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/geoip.dat>
