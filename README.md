@@ -1,2 +1,3 @@
 - geosite：包含 geosite:gfw 和 geosite:aws-all，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/dlc.dat>
 - geoip：包含 geoip:aws-us，<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/geoip.dat>
+- 小火箭 YouTube 去广告：<https://raw.githubusercontent.com/jayli/gfw/refs/heads/main/YouTubeAd.sgmodule>
